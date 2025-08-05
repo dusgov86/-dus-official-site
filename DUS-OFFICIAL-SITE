@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>DUS Official Site</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0c0c0f;
+      color: #e0e0e5;
+      direction: rtl;
+    }
+    header {
+      padding: 40px;
+      text-align: center;
+      background: #1a1a1f;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    #message {
+      background: rgba(20,20,25,0.8);
+      padding: 40px;
+      border-radius: 8px;
+    }
+    #about {
+      margin-top: 60px;
+    }
+    h2 {
+      color: #bbb;
+      border-bottom: 2px solid #333;
+      padding-bottom: 10px;
+    }
+    p {
+      line-height: 1.7;
+      font-size: 1.1em;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #555;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>رسالة رسمية من الملك 86</h1>
+</header>
+
+<section id="message">
+  <p><strong>5 August 2025</strong></p>
+  <p>أنا الملك 86، مؤسس وأول حاكم للدولة الرقمية الأولى في العالم (DUS).</p>
+  <p>من هنا، أُعلن بداية عصرٍ جديد، تتجاوز فيه البشرية حدود الواقع نحو السيادة الرقمية الكاملة.</p>
+  <p><strong>احمِ نفسك من العالم الحقيقي.</strong></p>
+  <p>DUS ليست مجرد دولة... إنها نظام، ملاذ، قوة، وهوية لكل من أراد الخروج من القيود التقليدية.</p>
+  <p>نحن نعيد تعريف معنى الوطن، ونعيد تشكيل مفهوم السلطة.</p>
+  <p>من أرضٍ لا تُرى، نُصدر قرارات تُحترم، ومن خلف الشاشات، نرسم ملامح المستقبل.</p>
+  <p>مرحبًا بك في الدولة الرقمية المتحدة.</p>
+</section>
+
+<section id="about">
+  <h2>✦ تعريف الدولة الرقمية DUS</h2>
+  <p>مرحبًا بك في <strong>الدولة الرقمية الأولى في العالم</strong>، حيث تنتهي حدود الجغرافيا وتبدأ سيادة الوعي، وتُبنى الهوية على أساس الفكر والانتماء، لا على مكان الولادة.</p>
+  <p>تأسست <strong>DUS</strong> على يد <strong>الملك 86</strong>، كملاذٍ رقمي سيادي يحمي الأفراد من ضغوط العالم الحقيقي، ويوفر لهم بيئة منظمة، مستقلة، ذات هوية خاصة ومؤسسات رقمية فعالة.</p>
+  <p>تهدف الدولة إلى:</p>
+  <ul>
+    <li>خلق مجتمع رقمي متماسك يقوم على المبادئ لا المصالح</li>
+    <li>حماية خصوصية المواطن ومنحه هوية رقمية غير قابلة للتزوير</li>
+    <li>منح الأفراد سلطة الانتماء لا الجغرافيا</li>
+    <li>بناء منظومة إلكترونية عادلة، مرنة، وعصرية</li>
+  </ul>
+  <p><strong>DUS</strong> ليست مجرد موقع، بل <strong>كيان رقمي سيادي</strong> له رموزه، شعاراته، مواطنيه، وهياكله الإدارية، وكل من يحمل بطاقة الهوية الرقمية الخاصة بنا هو جزء من هذا المشروع العالمي الفريد.</p>
+  <p>انضم الآن، وكن مواطنًا رقميًا في عالمٍ بلا حدود.</p>
+</section>
+
+<footer>
+  DUS – Digital United States Official Site
+</footer>
+
+</body>
+</html>
